@@ -41,3 +41,43 @@ file_filter = translations/contao-news-bundle.v4_0-tl_user_group/<lang>.xlf
 source_lang = en
 type = XLIFF
 
+[contao-news-bundle.v4_1-default]
+file_filter = translations/contao-news-bundle.v4_1-default/<lang>.xlf
+source_lang = en
+type = XLIFF
+
+[contao-news-bundle.v4_1-modules]
+file_filter = translations/contao-news-bundle.v4_1-modules/<lang>.xlf
+source_lang = en
+type = XLIFF
+
+[contao-news-bundle.v4_1-tl_module]
+file_filter = translations/contao-news-bundle.v4_1-tl_module/<lang>.xlf
+source_lang = en
+type = XLIFF
+
+[contao-news-bundle.v4_1-tl_news]
+file_filter = translations/contao-news-bundle.v4_1-tl_news/<lang>.xlf
+source_lang = en
+type = XLIFF
+
+[contao-news-bundle.v4_1-tl_news_archive]
+file_filter = translations/contao-news-bundle.v4_1-tl_news_archive/<lang>.xlf
+source_lang = en
+type = XLIFF
+
+[contao-news-bundle.v4_1-tl_news_feed]
+file_filter = translations/contao-news-bundle.v4_1-tl_news_feed/<lang>.xlf
+source_lang = en
+type = XLIFF
+
+[contao-news-bundle.v4_1-tl_user]
+file_filter = translations/contao-news-bundle.v4_1-tl_user/<lang>.xlf
+source_lang = en
+type = XLIFF
+
+[contao-news-bundle.v4_1-tl_user_group]
+file_filter = translations/contao-news-bundle.v4_1-tl_user_group/<lang>.xlf
+source_lang = en
+type = XLIFF
+
