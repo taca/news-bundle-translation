@@ -91,6 +91,7 @@
       </trans-unit>
       <trans-unit id="tl_news_feed.source_text">
         <source>Full stories</source>
+        <target>完全な記事</target>
       </trans-unit>
       <trans-unit id="tl_news_feed.new.0">
         <source>New feed</source>
