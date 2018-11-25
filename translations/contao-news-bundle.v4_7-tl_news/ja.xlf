@@ -43,15 +43,19 @@
       </trans-unit>
       <trans-unit id="tl_news.pageTitle.0">
         <source>Meta title</source>
+        <target>メタタイトル</target>
       </trans-unit>
       <trans-unit id="tl_news.pageTitle.1">
         <source>Here you can add a custom meta title to overwrite the default page title.</source>
+        <target>独自のメタタイトルを追加して、ページの題名の初期値を上書きできます。</target>
       </trans-unit>
       <trans-unit id="tl_news.description.0">
         <source>Meta description</source>
+        <target>メタデスクリプション</target>
       </trans-unit>
       <trans-unit id="tl_news.description.1">
         <source>Here you can add a custom meta description to overwrite the default page description.</source>
+        <target>独自のメタデスクリプションを追加して、ページの説明の初期値を上書きできます。</target>
       </trans-unit>
       <trans-unit id="tl_news.subheadline.0">
         <source>Subheadline</source>
