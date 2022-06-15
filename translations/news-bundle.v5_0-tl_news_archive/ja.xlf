@@ -15,6 +15,7 @@
       </trans-unit>
       <trans-unit id="tl_news_archive.jumpTo.1">
         <source>Please choose the newsreader page to which visitors will be redirected when clicking a news item.</source>
+        <target>ニュースの項目をクリックしたときに移動するニュースリーダーのページを選択してください。</target>
       </trans-unit>
       <trans-unit id="tl_news_archive.allowComments.0">
         <source>Enable comments</source>
@@ -158,6 +159,7 @@
       </trans-unit>
       <trans-unit id="tl_news_archive.children">
         <source>Edit the news items of news archive ID %s</source>
+        <target>ID %sのニュースアーカイブのニュース項目を編集</target>
       </trans-unit>
       <trans-unit id="tl_news_archive.copy">
         <source>Duplicate news archive ID %s</source>
